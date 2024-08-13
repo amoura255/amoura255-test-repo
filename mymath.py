@@ -4,3 +4,7 @@
 
 def add(a, b):
     return a + b
+
+#Andrew is a cool person
+def multiply(a, b):
+    return a * b
